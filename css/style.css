@@ -1,0 +1,94 @@
+.Fondo {
+	background-image: url("../images/Background.jpg");
+	-webkit-background-size:cover;
+	-o-background-size:cover;
+	-moz-background-size:cover; 
+	height: 1020px;
+	width: 1280px;
+
+}
+
+.Boton {
+	background-color: #252525;
+	height: 55px;
+	width: 430px;
+	opacity: 0.7;
+	position: relative;
+	left:37%;
+}
+
+.Blanco {
+	color: #FFFFFF;
+}
+
+.Espacio{
+	padding-left: 35%;
+	padding-top:1%;
+}
+
+.Espacio1 {
+	padding-left: 1%;
+
+}
+
+.Espacio2 {
+	padding-left: 46%;
+	padding-top: 3%;
+	cursor: pointer;
+}
+
+.Icons {
+	padding-left: 37%;
+	padding-top: 5%;
+	opacity: 0.9;
+	cursor: pointer;
+}
+
+.Espacio3 {
+	padding-left: 44%;
+	cursor: pointer;
+	padding-top:1%;
+}
+
+.Fondo2 {
+	background-image: url("../images/Background2.jpg");
+	-webkit-background-size:cover;
+	-o-background-size:cover;
+	-moz-background-size:cover;
+	height: 1020px;
+	width: 1280px;
+}
+
+.WS {
+	background-color: #FFFFFF;
+	height: 290px;
+	width: 390px;
+
+}
+
+.BotonR {
+	background-color: #252525;
+	position: relative;
+	height: 50px;
+	width: 350px;
+	opacity: 0.7;
+	left: 40%;
+}
+
+.D {
+	padding-left: 36%;
+	padding-top: 2%;
+}
+
+.Color1{
+	background-color: #252525;
+	height: 60px;
+	width: 345px;
+	color: #FFFFFF;
+	position: relative;
+	left: 40%;
+	padding-top: 1%;
+	opacity: 0.8;
+	cursor:pointer;
+
+}
